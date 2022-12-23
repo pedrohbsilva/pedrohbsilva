@@ -25,14 +25,14 @@ I am a Software Developer, with experience in Frontend and Backend, I currently 
 
 Skills:
 
-• Perform maintenance on legacy software;
-• Creation and maintenance of unit tests in the backend part;
-• Development of Features in ReactJS on the Frontend;
-• Development of Features in Python with Flask and FastAPI;
-• Development of Features in NodeJS with Express and NestJS;
-• Application Microservices Management;
-• Architecture of new modules using Microservices using NodeJS with Express or Python with Flask;
-• Interviews and training of new developers in the team;
-• Planning and decision in the modeling creation process of the old system modules;
-• Code Review and Pull Request approval;
-• API documentation.
+- Perform maintenance on legacy software;
+- Creation and maintenance of unit tests in the backend part;
+- Development of Features in ReactJS on the Frontend;
+- Development of Features in Python with Flask and FastAPI;
+- Development of Features in NodeJS with Express and NestJS;
+- Application Microservices Management;
+- Architecture of new modules using Microservices using NodeJS with Express or Python with Flask;
+- Interviews and training of new developers in the team;
+- Planning and decision in the modeling creation process of the old system modules;
+- Code Review and Pull Request approval;
+- API documentation.
