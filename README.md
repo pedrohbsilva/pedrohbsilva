@@ -3,8 +3,16 @@
 
 [pt-BR]
 
-Sou Software Developer, com experiência em Frontend e Backend, atualmente exerço a função de Tech Lead e Senior Backend Developer na Infosys pela DISYS e Professor de Tecnologia no LAB365 do SENAI/SC, focado em ensino de JavaScript, TypeScript, NodeJS, Python, ReactJS, Express, Nest, Flask e entre outras tecnologias. Tenho experiência de 4 anos na área de tecnologia, com passagem em grandes empresas de tecnologia como Infosys, Disys, BRY Tecnologia e Peixe Urbano. 
+Como desenvolvedor de software, sou apaixonado por tecnologia e inovação, sempre buscando aprender e aplicar novos conhecimentos. Com mais de 5 anos de experiência em desenvolvimento de software, tenho liderado equipes, prestado consultoria e lecionado na área de programação.
+
+Destaco-me por minha habilidade em liderar equipes de desenvolvimento, resolução de problemas e trabalho em equipe em projetos inovadores. Em minhas experiências profissionais, tive a oportunidade de trabalhar em projetos desafiadores em grandes empresas como Oxygea, Infosys, Disys, BRY Tecnologia e Peixe Urbano.
+
+Meu conhecimento técnico é amplo, abrangendo o desenvolvimento Frontend, Backend e Mobile, utilizando tecnologias como NodeJS, Python, Express, Flask, NestJS, FastAPI, ReactJS, React Native, Flutter, SQL, NOSQL, MySQL, PostgreSQL, MongoDB, DocumentDB, AWS Lambda, Redis, Docker, RDS, S3 e EC2. Sempre estou em busca de novas tecnologias para aprimorar minhas habilidades técnicas e estar atualizado para os desafios futuros.
 
 [en-US]
 
-I am a Software Developer, with experience in Frontend and Backend, I currently work as Tech Lead and Senior Backend Developer at Infosys by DISYS and Professor of Technology at LAB365 at SENAI/SC, focused on teaching JavaScript, TypeScript, NodeJS, Python, ReactJS , Express, Nest, Flask and among other technologies. I have 4 years of experience in the technology area, having worked in large technology companies such as Infosys, Disys, BRY Tecnologia and Peixe Urbano.
+As a software developer, I am passionate about technology and innovation, always seeking to learn and apply new knowledge. With more than 5 years of experience in software development, I have led teams, provided consultancy and taught in the area of ​​programming.
+
+I stand out for my ability to lead development teams, problem solving and teamwork on innovative projects. In my professional experiences, I had the opportunity to work on challenging projects in large companies such as Oxygea, Infosys, Disys, BRY Tecnologia and Peixe Urbano.
+
+My technical knowledge is broad, covering Frontend, Backend and Mobile development, using technologies such as NodeJS, Python, Express, Flask, NestJS, FastAPI, ReactJS, React Native, Flutter, SQL, NOSQL, MySQL, PostgreSQL, MongoDB, DocumentDB, AWS Lambda, Redis, Docker, RDS, S3 and EC2. I am always looking for new technologies to improve my technical skills and be up to date for future challenges.
